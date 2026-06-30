@@ -55,6 +55,10 @@ Currently leveling → English, measured RAG in production, Security+
 - **🧰 [DevRewind](https://github.com/NeveuGregor/DevRewind)** — local, single-user
   activity journal to prep annual reviews: PHP/SQLite REST API (prepared
   statements, FTS5 search, PHPUnit-tested) + Vue 3 / TypeScript frontend.
+- **🎲 [rpg-soundboard](https://github.com/NeveuGregor/rpg-soundboard)** —
+  self-hosted touch soundboard for tabletop RPG sessions: recursive sound
+  library, per-tile overlays, Range-streamed audio, PWA/offline, optional local
+  Kokoro TTS. Plain PHP + vanilla JS, no build.
 
 > Flagship work lives inside private/legacy repos: a role-separated sub-agent
 > ecosystem (reviewer, security sentinel, devil's advocate, pre-mortem) and a
