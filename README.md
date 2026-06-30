@@ -52,6 +52,9 @@ Currently leveling → English, measured RAG in production, Security+
 - **🛠️ [cc-switcher](https://github.com/NeveuGregor/cc-switcher)** — switch
   Claude Code authentication between multiple accounts (personal / work) with a
   single shared `~/.claude`.
+- **🧰 [DevRewind](https://github.com/NeveuGregor/DevRewind)** — local, single-user
+  activity journal to prep annual reviews: PHP/SQLite REST API (prepared
+  statements, FTS5 search, PHPUnit-tested) + Vue 3 / TypeScript frontend.
 - **🧰 DevReview** — full-stack code-review companion app (PHP · SQLite · Vue 3).
   *Going public soon.*
 
