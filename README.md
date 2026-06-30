@@ -55,8 +55,6 @@ Currently leveling → English, measured RAG in production, Security+
 - **🧰 [DevRewind](https://github.com/NeveuGregor/DevRewind)** — local, single-user
   activity journal to prep annual reviews: PHP/SQLite REST API (prepared
   statements, FTS5 search, PHPUnit-tested) + Vue 3 / TypeScript frontend.
-- **🧰 DevReview** — full-stack code-review companion app (PHP · SQLite · Vue 3).
-  *Going public soon.*
 
 > Flagship work lives inside private/legacy repos: a role-separated sub-agent
 > ecosystem (reviewer, security sentinel, devil's advocate, pre-mortem) and a
@@ -87,6 +85,5 @@ Currently leveling → English, measured RAG in production, Security+
 
 <!--
   Maintenance notes (not rendered):
-  - Add DevReview link under "Selected work" once it goes public.
   - Add LinkedIn badge here if/when you want it public.
 -->
