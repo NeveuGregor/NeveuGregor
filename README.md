@@ -1,3 +1,4 @@
+
 <h1 align="center">Grégor Neveu</h1>
 <p align="center"><b>Agentic engineering · DevSecOps · Knowledge transfer</b></p>
 
