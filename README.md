@@ -78,15 +78,6 @@ Currently leveling → English, measured RAG in production, Security+
 
 ---
 
-### 📈 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NeveuGregor&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeveuGregor&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
-
----
-
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:contact.neveugregor@proton.me)
