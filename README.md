@@ -86,4 +86,5 @@ Currently leveling → English, measured RAG in production, Security+
 <!--
   Maintenance notes (not rendered):
   - Add LinkedIn badge here if/when you want it public.
+  - Profile README re-detection touch (post master→main rename).
 -->
