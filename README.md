@@ -87,6 +87,10 @@ Currently leveling → English, measured RAG in production, Security+
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:contact.neveugregor@proton.me)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/neveugregor)
+
+> ☕ Everything above is free and stays free. If one of these tools saved you an
+> hour, a coffee keeps the next MCP server brewing.
 
 <!--
   Maintenance notes (not rendered):
